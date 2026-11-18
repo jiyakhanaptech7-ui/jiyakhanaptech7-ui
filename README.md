@@ -1,16 +1,46 @@
-## Hi there 👋
 
-<!--
-**jiyakhanaptech7-ui/jiyakhanaptech7-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Wajiha Jawed! 👋
 
-Here are some ideas to get you started:
+### Aspiring Web Developer | Business Administration Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to my GitHub profile!
+
+I am an Associated Degree in Business Administration student with an interest in web development and technology. I enjoy creating websites and learning new programming skills.
+
+## 💻 Technical Skills
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Java
+- C#
+- SQL
+- Database Management
+- GitHub
+
+## 🚀 My Projects
+
+### 1. Venus Handicrafts
+An e-commerce website showcasing beautiful handicraft products.
+
+**Technologies:** HTML, CSS, JavaScript, Bootstrap
+
+[View Live Website](https://jiyakhanaptech7-ui.github.io/venus-handicrafts/)
+
+### 2. COVID Test & Vaccination System
+A project focused on COVID testing and vaccination management.
+
+## 🎯 Career Objective
+
+To grow as a professional web developer, improve my technical skills, and work on real-world projects.
+
+## 📫 Contact
+
+- GitHub: https://github.com/jiyakhanaptech7-ui
+- Email: jiyakhanaptech7@gmail.com
+- Location: Karachi, Pakistan
+
+---
+
+⭐ Thank you for visiting my profile!
